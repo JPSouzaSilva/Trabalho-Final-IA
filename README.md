@@ -4,8 +4,7 @@
 
 ## Como rodar o projeto
 
-- Instale as dependências com o comando
-pip install pandas scikit-learn
+- Instale as dependências com o comando: pip3 install pandas scikit-learn
 
 ## Autores
 - João Pedro Silva

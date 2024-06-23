@@ -25,7 +25,6 @@ model.fit(X_train, y_train)
 
 y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
-print(f'Accuracy: {accuracy:.2f}')
 
 def recommend_movies(user_id, model, data, num_recommendations=5):
     user_data = data[data['userId'] == user_id]

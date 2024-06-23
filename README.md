@@ -1,4 +1,4 @@
-# Projeto de Inteligência Artificial - Trabalho I
+# Projeto de Inteligência Artificial - Trabalho Final
 
 ## Descrição
 
